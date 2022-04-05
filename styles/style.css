@@ -6,7 +6,7 @@ body{
     background:linear-gradient(
         rgba(0,0,0,0.8),
         rgba(0,0,0,0.6)),
-        url('../imgs/backg.jpg')
+        url('../imgs/bg.jpg')
     ;
     background-size: cover;
 }
